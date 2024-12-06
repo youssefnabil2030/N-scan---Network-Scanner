@@ -45,9 +45,3 @@ Run the scanner with:
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix bugs.  
 
-## License
-This project is licensed under the [Specify License Name, e.g., MIT License]. See the LICENSE file for details.  
-
----  
-
-Feel free to add more details about your specific setup or features!
